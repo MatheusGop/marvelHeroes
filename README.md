@@ -10,6 +10,13 @@ Depois de feito a clonagem do reposítorio, entre em sua pasta e instale o node_
 
 yarn
 ```
+### API SETUP
+```
+Para obter as chaves de acesso para a API da marvel, acesse o site https://developer.marvel.com/ e crie uma conta, será preciso da chave privada, chave pública e gerar um unix time em um gerador.
+
+Depois é só preencher os campos dentro da pasta service/heroRepository.js e comece a explorar o mundo da marvel
+
+```
 
 ### Compiles and hot-reloads for development
 ```
